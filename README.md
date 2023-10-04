@@ -1,0 +1,2 @@
+# Hbridge_DCmotor_switch
+control H_bridge_DCmotor using_switch
